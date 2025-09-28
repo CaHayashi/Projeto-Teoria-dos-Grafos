@@ -2,6 +2,6 @@
 Repositório destinado para o projeto de Teoria dos Grafo proposta pela Universidade Presbiteriana Mackenzie.
 
 # Integrantes: 
-  Carlos Eduardo Hayashi - 10419790
-  Edson Luiz Cardoso Ohira - 10419663
-  Vinicius Oliveira Piccazzio - 10419471
+  Carlos Eduardo Hayashi - 10419790 <br> </br>
+  Edson Luiz Cardoso Ohira - 10419663 <br> </br>
+  Vinicius Oliveira Piccazzio - 10419471 <br> </br>
